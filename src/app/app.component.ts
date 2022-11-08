@@ -10,4 +10,5 @@ export class AppComponent {
   log=()=>{console.log('a');}
   log1=()=>{console.log('master');}
   a2 = 'a2';
+  a = 'a';
 }
