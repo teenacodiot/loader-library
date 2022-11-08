@@ -9,4 +9,5 @@ export class AppComponent {
   title = 'loader-library';
   log=()=>{console.log('a');}
   log1=()=>{console.log('master');}
+  a2 = 'a2';
 }
