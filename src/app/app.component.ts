@@ -8,5 +8,8 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'loader-library';
   log=()=>{console.log('master');}
-  a2 = 'a2';
+  a2 = 'master';
+  a3 = 'master';
+  a4 = 'master';
+  a5 = 'master';
 }
