@@ -12,4 +12,6 @@ export class AppComponent {
   a3 = 'master';
   a4 = 'master';
   a5 = 'master';
+  a6 = 'master';
+  a7 = 'master';
 }
