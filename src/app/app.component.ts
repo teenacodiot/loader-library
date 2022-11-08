@@ -9,9 +9,5 @@ export class AppComponent {
   title = 'loader-library';
   log=()=>{console.log('master');}
   a2 = 'master';
-  a3 = 'master';
-  a4 = 'master';
-  a5 = 'master';
-  a6 = 'master';
   a7 = 'master';
 }
